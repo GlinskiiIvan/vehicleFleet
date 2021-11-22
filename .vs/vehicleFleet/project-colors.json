@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1aad8cc-9254-4d4d-bc14-27ff7991df6d": {
+      "ProjectGuid": "e1aad8cc-9254-4d4d-bc14-27ff7991df6d",
+      "DisplayName": "vehicleFleet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
